@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-fantasma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Abrazo de fantasma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-fantasma/) |
+| **Get License** | [Obtain a Music License for Abrazo de fantasma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-fantasma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el calor cuando me miras así,
+> Un abrazo de fantasma que no tiene fin.
+> La noche cae y tú te acercas a mí,
+> Este fuego en la calle me quema por ti.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
