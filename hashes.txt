@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Abrazo d
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:16:03.499253 | `v1` | `302cc60cbc309195a0bf7fe58a968ab973da70a48b3e67b78369bcf6cfbb5335` | `420758648101d294b8b20b2fa2d0cdbb1f33b0620bc3685ed6f16ffec24d1660` | `2026-06-20_abrazo-de-fantasma-v1.txt` |
+| 2026-06-20T03:02:41.985564 | `v2` | `6d8ad20f765691be91c893a17039f0b8891d13a8c39425bfd5ce1b357c31fc6f` | `7e085396e7d63887aa83dd21d1c527802695b708b47d407fccd737f6bbeb75d2` | `2026-06-20_abrazo-de-fantasma-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
