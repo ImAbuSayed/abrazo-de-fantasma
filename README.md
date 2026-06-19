@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-fantasma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Abrazo de fantasma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-fantasma/) |
+| **Get License** | [Official Music Licensing for Abrazo de fantasma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-fantasma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3754)
+- [Telegram](https://t.me/AbuSayedMusic/3772)
 
 ---
 
