@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Abrazo de fantasma |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-fantasma/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [Request Licensing for Abrazo de fantasma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-fantasma/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Siento el calor cuando me miras así,
-> Un abrazo de fantasma que no tiene fin.
-> La noche cae y tú te acercas a mí,
-> Este fuego en la calle me quema por ti.
+> Your silhouette in moonlit haze
+> A ghostly touch that set ablaze
+> This late night drive through neon fire
+> Abrazo de fantasma, desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
