@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo de fantasma
+
+This log tracks the cryptographic history and versioning for the song **Abrazo de fantasma** (abrazo-de-fantasma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:16:03.499253 | `v1` | `302cc60cbc309195a0bf7fe58a968ab973da70a48b3e67b78369bcf6cfbb5335` | `420758648101d294b8b20b2fa2d0cdbb1f33b0620bc3685ed6f16ffec24d1660` | `2026-06-20_abrazo-de-fantasma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
